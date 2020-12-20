@@ -2,3 +2,39 @@ About Me and Self-Assessment
 My name is Ryleigh Failla and I am an aspiring data science professional with interest in exploratory data analysis, machine learning and data mining. I have been passionate about technology and computer science from a young age, and one of my fondest childhood memories was teaching myself basic HTML and C++ at 10 years old. I have proficiency in programming languages such as Python, SQL, C++ and Java.
 
 Throughout my journey going back to school I realized that I have a strong preference for applied statistics and analysis. Outside of coursework I currently work in a field that requires a great amount of analysis and creative foresight and I have found that I have been able to refine these skills over the years. I hope to pursue a career that challenges me and forces me to become more innovative. 
+
+Part 1: Software Design & Engineering
+
+The artifact that I have selected is from CS350: Emerging System Architecture and Technology and it is Final Project Milestone.  I selected this because it demonstrates the ability to create functional software using Python and functionally demonstrating the software through using the Raspberry Pi device and modules. This also demonstrates proficiency with hardware; the Raspberry Pi and Grove Pi sensor modules – setting up the device and understanding the various components so as to arrange them in away that allows the software to perform. 
+
+In this project the Grove Pi sensor reads the temperature and humidity of the external surroundings and then responds using LED outputs as defined by the Python Program. This is done by the program writing the readings to a JSON file and using same to determine the output of the LEDs. With regard to improvements, my focus was on refining the JSON array and functionality and increasing the overall performance of the program by changing the frequency with which the temperature is measured, as well as different outputs for different temperature and humidity readings. 
+
+Functioning Hardware with Updated Program:
+
+<iframe src="https://drive.google.com/file/d/1RrJ68I4h7eA5KDtNCBciPvo08cK6ZvT_/preview" width="640" height="480"></iframe>
+
+In the refined version of this project I have improved the code so that the program can run more efficiently and established the JSON array to write the sensor input data to a JSON file which can then be used for the output. I have attached a video of the functioning program on the Raspbery Pi Module. 
+
+Code Review: <iframe src="https://drive.google.com/file/d/1UD5M8RPbX4-_ej8vcKDMOP9ykNRFZjGF/preview" width="640" height="480"></iframe>
+
+Final Deliverable:
+
+
+Part 2: Data Structures and Algorithms
+
+Code Review:
+
+<iframe src="https://drive.google.com/file/d/17iDLLu0R7JvjN4TdID-8gooETPg4ss7e/preview" width="640" height="480"></iframe>
+
+Final Deliverable:
+
+Part 3: Databases
+
+The artifact that I have selected is from DAT220: Fundamentals of Data Mining, the Final Project. This project utilizes data analysis tools and data visualizations to extract information from a JMP file of data regarding Bubba Gump Shrimp Sales. I selected this because it is a good way to demonstrate understanding of the function and role of a database as well as effective ways to analyze this data; different forms of visualization and display of data such as distributions and box-and-whisker plots, for example. Furthermore it is an opportunity to show understanding of different types of data, and analysis methods such as clustering for the purposes of this assignment. In the final project for this course, the Bubba Grump Shrimp data extracted is intended to help the business increase sales and reach new target demographics in that it seeks correlations and trends within the survey data submitted by customers to help predict future trends.
+
+Code Review:
+
+<iframe src="https://drive.google.com/file/d/1bS72Gskgb2-f-2qYUxJ6OP_MIXyWDZ7K/preview" width="640" height="480"></iframe>
+
+Final Deliverable:
+
