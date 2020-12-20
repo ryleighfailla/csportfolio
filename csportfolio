@@ -17,16 +17,20 @@ In the refined version of this project I have improved the code so that the prog
 
 Code Review: <iframe src="https://drive.google.com/file/d/1UD5M8RPbX4-_ej8vcKDMOP9ykNRFZjGF/preview" width="640" height="480"></iframe>
 
-Final Deliverable:
+Final Deliverable: https://github.com/ryleighfailla/csportfolio/blob/main/CS350_FINAL.py
 
 
 Part 2: Data Structures and Algorithms
+
+The artifact that I have selected is from CS260: Data Structures & Algorithms. This is a program that is based on hypothetical municipal government data regarding information submitted for property auctions. The deliverable is a simple console program wherein the user is prompted to enter data about the subject vehicle and then data is returned with the bid information. The program was expanded to add a vector structure to hold the collection of the bids, a CSV parser was initialized and a parameter was established to partition the data into two parts: low and high. Then, while loops would contiuolly increment the low points and decrement the high points and create indexes. 
+
+This project demonstrates the ability to work with a data set and employ advanced programming concepts such as vectors and quicksort algorithms to transform the data into an output that can be utilized by the customer. This demonstrates the ability to deliver value and accomplish industry-specific goals within the field of data science while using innovative techniques, skills and tools in computing practices. 
 
 Code Review:
 
 <iframe src="https://drive.google.com/file/d/17iDLLu0R7JvjN4TdID-8gooETPg4ss7e/preview" width="640" height="480"></iframe>
 
-Final Deliverable:
+Final Deliverable: https://github.com/ryleighfailla/csportfolio/blob/main/CS260_FINAL.cpp
 
 Part 3: Databases
 
@@ -36,5 +40,5 @@ Code Review:
 
 <iframe src="https://drive.google.com/file/d/1bS72Gskgb2-f-2qYUxJ6OP_MIXyWDZ7K/preview" width="640" height="480"></iframe>
 
-Final Deliverable:
+Final Deliverable: https://github.com/ryleighfailla/csportfolio/blob/main/DAT220_FINAL.docx
 
